@@ -8,6 +8,7 @@ export default function Header() {
 
     return (
         <div style={isTrue?theme.dark:theme.light} id="header-container">
+            <p class="my-mail">matanb2296@gmail.com</p>
         <a href="https://tech-career-alternative.firebaseapp.com/">
             <img class="tech" src="https://tech-career-alternative.firebaseapp.com/image001.png" width="80px" height="40px"/>
         </a>

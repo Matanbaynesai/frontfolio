@@ -20,6 +20,7 @@ export default function Portofolio() {
         <div id="portoflio" >
                <h1 className="animate__animated animate__backInUp">My Projects</h1>  
                <Carousel slides={slides} autoplay={false} interval={1000}/>
+     
         </div>
     )
 }

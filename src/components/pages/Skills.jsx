@@ -36,6 +36,16 @@ export default function Skills() {
             <progress value={89} max={100}/>
             <span>89%</span>
        </div>
+       <div class= "skills">
+                 <h5>other skills</h5>
+                   <ol>
+                     <li>Music</li>
+                     <li>Soccer</li>
+                     <li>Singing</li>
+                     <li>Hang out with friends</li>
+                     <li>Traveling</li>
+                   </ol>
+               </div>
        </div>
         
     )

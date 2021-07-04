@@ -2,7 +2,6 @@
     display: flex;
     background-color: rgb(0, 0, 0);
     border: rgb(56, 44, 44) solid;
-    /* width: 91vw; */
     height: 60px;
     top:0%;
     opacity: 1.0;
@@ -14,6 +13,3 @@
 .tech{
  cursor: pointer;
 }
-/* .indi{
-
-} */
