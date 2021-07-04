@@ -1,0 +1,20 @@
+form {
+    width: 700px;
+    margin-left: 155px;
+    position: absolute; 
+    top: 80px;
+    z-index: 1000;
+    font-weight: bold;
+}
+.contacth1{
+    margin-left:150px;
+}
+.contact-me{
+    position: absolute;
+    opacity: 0.9;
+}
+.contact{
+    border: 1px solid #DDDDDD;
+    position: relative;
+    height: 500px;
+}

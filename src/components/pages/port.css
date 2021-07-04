@@ -1,0 +1,45 @@
+ /* #portoflio{ */
+    /* display: flex;
+    /* margin-top: 120px;
+    /* margin-left: 200px; 
+    width:1200px;
+}
+#portoflio .porth1{
+    color: violet;
+}
+.picBackgr{
+    position: relative;
+    background-color: rgb(36, 49, 49);
+    width:900px;
+    height:600px;
+    margin-left: 20vw;
+    margin-bottom: 50px;
+    border-radius: 10px;
+
+}
+.portImg{
+    position: relative;
+    position: absolute;
+    width: 550px;
+    align-self:center;
+    border-radius: 5px;
+    margin-left: 470px;
+} */ 
+
+ #portoflio{ 
+     /* width:1200px; */
+     height: 700px;
+     background-image: url("https://www.hortongroup.com/hs-fs/hubfs/Services%20Rework/backgrounds/websites%20and%20custom/hybrid%20application%20dev%20background.png?width=700&name=hybrid%20application%20dev%20background.png");
+     background-size: cover;
+}
+.my-site{
+    width: 500px;
+    height: 600px;
+}
+.porth1{
+    
+}
+.animate__animated{
+    color: rgb(165, 84, 165);
+    margin-left: 150px;
+}

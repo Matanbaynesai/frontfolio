@@ -1,0 +1,40 @@
+.mylogo{
+    margin-left: 90px;
+    margin-top: 80px;
+    width:100px;
+    align-content: flex-end;
+    transition: 0.5s;
+    border-radius: 30px;
+  
+}
+.mylogo:hover{
+    width:120px;
+    /* background-color:  rgb(0, 0, 0); */
+    /* box-shadow: 10px 10px 20px rgb(36, 35, 35); */
+    border-radius: 50px;
+}
+#logo-container{
+    height: 2200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+progress{
+    width: 800px;
+    height:80px;
+    margin-top: -85px;
+    align-self: center;
+}
+span{
+    margin-top:-100px;
+    margin-right: 100px;
+    align-self:flex-end;
+    color: white;
+}
+li a{
+    text-decoration: none;
+}
+#logo-container h1{
+    align-self: center;
+    margin-top: 200px;
+}

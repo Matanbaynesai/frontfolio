@@ -1,0 +1,16 @@
+#container ul{
+    display:inline-flex;
+    gap: 30px;
+}
+ul li {
+  align-content: center;
+   justify-content: space-between; 
+  display:inline-flex;
+  list-style: none;
+  position: static;
+  margin-right: 60px;
+}
+#container{
+  width:1550px;
+}
+

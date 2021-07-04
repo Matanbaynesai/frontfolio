@@ -1,0 +1,84 @@
+ #container{
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 76px;
+ }
+.backImage{
+    margin-top: -80px;
+    width:100vw;
+    height:60vh;
+    /* opacity:0.7; */
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.MuiCard-root{
+align-self: flex-start;
+width: 700px;
+margin-left: 50px;
+}
+.MuiCard-root:nth-child(5){
+align-self:flex-end;
+margin-right: 35px;
+width: 700px;
+}
+.MuiCard-root:nth-child(6){
+
+align-self:flex-start;
+margin-left: 35px;
+}
+.MuiCard-root:nth-child(7){
+    align-self:flex-end;
+
+}
+.MuiCard-root img{
+transition: transform 0.5s;
+/* width: 12px; */
+
+
+}
+.MuiCard-root img:hover{
+    transform: translateY(-10px);
+}
+h1{
+    align-items: center;
+}
+#avatar{
+    width:100px;
+    height:100px;
+    align-self:flex-end;
+}
+.useMemo{
+    display: flex;
+    position: relative;
+    right: 250px;
+}
+.useMemo img{
+width:700px;
+}
+
+.useMemo p{
+    align-self: flex-end;
+}
+.agile1{
+    display: flex;
+    position: relative;
+    left: 250px;
+}
+.agile1 img{
+    width: 700px;
+}
+
+.agile2{
+    display: flex;
+    position: relative;
+    right: 250px;
+}
+.agile2 img{
+    width: 700px;
+}
