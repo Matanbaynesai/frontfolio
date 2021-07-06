@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontfolio/static/css/main.80314658.chunk.css",
+    "main.js": "/frontfolio/static/js/main.1a2d7ff8.chunk.js",
+    "main.js.map": "/frontfolio/static/js/main.1a2d7ff8.chunk.js.map",
+    "runtime-main.js": "/frontfolio/static/js/runtime-main.a1a1066e.js",
+    "runtime-main.js.map": "/frontfolio/static/js/runtime-main.a1a1066e.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/frontfolio/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.b1e62b42.chunk.js": "/frontfolio/static/js/2.b1e62b42.chunk.js",
+    "static/js/2.b1e62b42.chunk.js.map": "/frontfolio/static/js/2.b1e62b42.chunk.js.map",
+    "static/js/3.961f3659.chunk.js": "/frontfolio/static/js/3.961f3659.chunk.js",
+    "static/js/3.961f3659.chunk.js.map": "/frontfolio/static/js/3.961f3659.chunk.js.map",
+    "index.html": "/frontfolio/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/frontfolio/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.80314658.chunk.css.map": "/frontfolio/static/css/main.80314658.chunk.css.map",
+    "static/js/2.b1e62b42.chunk.js.LICENSE.txt": "/frontfolio/static/js/2.b1e62b42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a1066e.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.b1e62b42.chunk.js",
+    "static/css/main.80314658.chunk.css",
+    "static/js/main.1a2d7ff8.chunk.js"
+  ]
+}
